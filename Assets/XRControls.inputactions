@@ -1,0 +1,113 @@
+{
+    "name": "XRControls",
+    "maps": [
+        {
+            "name": "XRI LeftHand Locomotion",
+            "id": "961cd45b-303d-4e15-b87d-2b86d939e865",
+            "actions": [
+                {
+                    "name": "New action",
+                    "type": "Button",
+                    "id": "7b5e4481-4b3b-4bdb-a331-1a06ac770005",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "ToggleAudioMode",
+                    "type": "Button",
+                    "id": "285b2d2c-2ff5-48d6-9ee5-e2e3dfcc8972",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "6e773d34-6352-4909-bb84-3a6b602cbe40",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "New action",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "b4d359d7-d6d6-4dc1-94ff-0a00da85cef9",
+                    "path": "<XRController>{RightHand}/secondaryButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "ToggleAudioMode",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        },
+        {
+            "name": "Move",
+            "id": "fcd6bde1-3834-47df-b21f-dad0ba1e60cb",
+            "actions": [
+                {
+                    "name": "New action",
+                    "type": "Value",
+                    "id": "ef83c41d-72e8-4f05-ad42-4b9cb18fdcc1",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "New action1",
+                    "type": "Value",
+                    "id": "fd817bee-614b-4de7-81ee-00607a5ed2a2",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "53d9f622-7c5a-424f-862a-fdf6687925e7",
+                    "path": "<XRController>{LeftHand}/thumbstick",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "New action",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "191707c1-cc51-4b89-90b7-a4ee43e62852",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "New action",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "1036c797-9de6-4966-9b96-43fb8a327a50",
+                    "path": "<XRController>{LeftHand}/thumbstick",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "New action1",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

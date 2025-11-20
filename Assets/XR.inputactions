@@ -1,0 +1,54 @@
+{
+    "name": "XR",
+    "maps": [
+        {
+            "name": "Locomotion",
+            "id": "78d52d2e-8fcd-43e3-8c4b-445ab90315fb",
+            "actions": [
+                {
+                    "name": "Move",
+                    "type": "Value",
+                    "id": "c4f1ea9e-4e5e-4fe9-b896-2d3a61b4e8cc",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "ButtonB",
+                    "type": "Button",
+                    "id": "e9d73ea2-b431-49f3-8c51-8a28f376fd2f",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "b8b8e61a-f464-449c-9687-d20069cfbcd8",
+                    "path": "<XRController>{LeftHand}/thumbstick",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Move",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "7e32addb-6131-4021-88f8-2e9474449d3b",
+                    "path": "<XRController>{RightHand}/secondaryButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "ButtonB",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

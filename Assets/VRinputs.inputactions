@@ -1,0 +1,34 @@
+{
+    "name": "VRinputs",
+    "maps": [
+        {
+            "name": "XR",
+            "id": "c4efd2ea-2fd2-4867-85d6-3975f0ff46be",
+            "actions": [
+                {
+                    "name": "ToggleAudioMode",
+                    "type": "Button",
+                    "id": "86afd882-192d-4365-93bf-bac7bc40f2cf",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "39468d79-afc7-4c22-8d59-dbe83c454759",
+                    "path": "<XRController>{RightHand}/secondaryButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "ToggleAudioMode",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

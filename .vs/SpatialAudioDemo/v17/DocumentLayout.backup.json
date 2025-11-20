@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dscv0\\SpatialAudioDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dscv0\\SpatialAudioDemo\\Library\\PackageCache\\com.unity.ide.visualstudio@2.0.22\\Editor\\VisualStudioIntegration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.ide.visualstudio@2.0.22\\Editor\\VisualStudioIntegration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02CCE9F1-5943-CB56-F316-E68CE90DC38B}|Unity.XR.Interaction.Toolkit.Samples.StarterAssets.csproj|C:\\Users\\dscv0\\SpatialAudioDemo\\assets\\samples\\xr interaction toolkit\\2.6.5\\starter assets\\scripts\\actionbasedcontrollermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02CCE9F1-5943-CB56-F316-E68CE90DC38B}|Unity.XR.Interaction.Toolkit.Samples.StarterAssets.csproj|solutionrelative:assets\\samples\\xr interaction toolkit\\2.6.5\\starter assets\\scripts\\actionbasedcontrollermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BDEAB23-B170-4CA2-D066-B3CE1F70361A}|Assembly-CSharp.csproj|C:\\Users\\dscv0\\SpatialAudioDemo\\assets\\resonanceaudio\\demos\\scripts\\audiomodecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BDEAB23-B170-4CA2-D066-B3CE1F70361A}|Assembly-CSharp.csproj|solutionrelative:assets\\resonanceaudio\\demos\\scripts\\audiomodecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BDEAB23-B170-4CA2-D066-B3CE1F70361A}|Assembly-CSharp.csproj|C:\\Users\\dscv0\\SpatialAudioDemo\\assets\\xr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BDEAB23-B170-4CA2-D066-B3CE1F70361A}|Assembly-CSharp.csproj|solutionrelative:assets\\xr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BDEAB23-B170-4CA2-D066-B3CE1F70361A}|Assembly-CSharp.csproj|C:\\Users\\dscv0\\SpatialAudioDemo\\assets\\xrcontrols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BDEAB23-B170-4CA2-D066-B3CE1F70361A}|Assembly-CSharp.csproj|solutionrelative:assets\\xrcontrols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7612FF9-A7B8-1052-53F8-F2FD0CABA005}|Assembly-CSharp-Editor.csproj|C:\\Users\\dscv0\\SpatialAudioDemo\\assets\\resonanceaudio\\editor\\resonanceaudioreverbbakingwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7612FF9-A7B8-1052-53F8-F2FD0CABA005}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\resonanceaudio\\editor\\resonanceaudioreverbbakingwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BDEAB23-B170-4CA2-D066-B3CE1F70361A}|Assembly-CSharp.csproj|C:\\Users\\dscv0\\SpatialAudioDemo\\assets\\resonanceaudio\\demos\\scripts\\demoplayercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BDEAB23-B170-4CA2-D066-B3CE1F70361A}|Assembly-CSharp.csproj|solutionrelative:assets\\resonanceaudio\\demos\\scripts\\demoplayercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BDEAB23-B170-4CA2-D066-B3CE1F70361A}|Assembly-CSharp.csproj|C:\\Users\\dscv0\\SpatialAudioDemo\\assets\\resonanceaudio\\demos\\scripts\\audiomodecontrollervr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BDEAB23-B170-4CA2-D066-B3CE1F70361A}|Assembly-CSharp.csproj|solutionrelative:assets\\resonanceaudio\\demos\\scripts\\audiomodecontrollervr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dscv0\\SpatialAudioDemo\\Library\\PackageCache\\com.unity.textmeshpro@3.0.7\\Scripts\\Runtime\\TMPro_UGUI_Private.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.textmeshpro@3.0.7\\Scripts\\Runtime\\TMPro_UGUI_Private.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BDEAB23-B170-4CA2-D066-B3CE1F70361A}|Assembly-CSharp.csproj|C:\\Users\\dscv0\\SpatialAudioDemo\\assets\\resonanceaudio\\scripts\\resonanceaudiosource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BDEAB23-B170-4CA2-D066-B3CE1F70361A}|Assembly-CSharp.csproj|solutionrelative:assets\\resonanceaudio\\scripts\\resonanceaudiosource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\dscv0\\spatialaudiodemo\\assets\\audiomodecontrollerovr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\audiomodecontrollerovr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VisualStudioIntegration.cs",
+              "DocumentMoniker": "C:\\Users\\dscv0\\SpatialAudioDemo\\Library\\PackageCache\\com.unity.ide.visualstudio@2.0.22\\Editor\\VisualStudioIntegration.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.ide.visualstudio@2.0.22\\Editor\\VisualStudioIntegration.cs",
+              "ToolTip": "C:\\Users\\dscv0\\SpatialAudioDemo\\Library\\PackageCache\\com.unity.ide.visualstudio@2.0.22\\Editor\\VisualStudioIntegration.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.ide.visualstudio@2.0.22\\Editor\\VisualStudioIntegration.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAASwGMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T22:59:09.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AudioModeControllerOVR.cs",
+              "DocumentMoniker": "C:\\Users\\dscv0\\SpatialAudioDemo\\Assets\\AudioModeControllerOVR.cs",
+              "RelativeDocumentMoniker": "Assets\\AudioModeControllerOVR.cs",
+              "ToolTip": "C:\\Users\\dscv0\\SpatialAudioDemo\\Assets\\AudioModeControllerOVR.cs",
+              "RelativeToolTip": "Assets\\AudioModeControllerOVR.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T22:57:30.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ActionBasedControllerManager.cs",
+              "DocumentMoniker": "C:\\Users\\dscv0\\SpatialAudioDemo\\Assets\\Samples\\XR Interaction Toolkit\\2.6.5\\Starter Assets\\Scripts\\ActionBasedControllerManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Samples\\XR Interaction Toolkit\\2.6.5\\Starter Assets\\Scripts\\ActionBasedControllerManager.cs",
+              "ToolTip": "C:\\Users\\dscv0\\SpatialAudioDemo\\Assets\\Samples\\XR Interaction Toolkit\\2.6.5\\Starter Assets\\Scripts\\ActionBasedControllerManager.cs",
+              "RelativeToolTip": "Assets\\Samples\\XR Interaction Toolkit\\2.6.5\\Starter Assets\\Scripts\\ActionBasedControllerManager.cs",
+              "ViewState": "AgIAANMBAAAAAAAAAAA9wGIBAAC0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T21:38:25.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "XR.cs",
+              "DocumentMoniker": "C:\\Users\\dscv0\\SpatialAudioDemo\\Assets\\XR.cs",
+              "RelativeDocumentMoniker": "Assets\\XR.cs",
+              "ToolTip": "C:\\Users\\dscv0\\SpatialAudioDemo\\Assets\\XR.cs",
+              "RelativeToolTip": "Assets\\XR.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAswKcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T18:53:19.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ResonanceAudioReverbBakingWindow.cs",
+              "DocumentMoniker": "C:\\Users\\dscv0\\SpatialAudioDemo\\Assets\\ResonanceAudio\\Editor\\ResonanceAudioReverbBakingWindow.cs",
+              "RelativeDocumentMoniker": "Assets\\ResonanceAudio\\Editor\\ResonanceAudioReverbBakingWindow.cs",
+              "ToolTip": "C:\\Users\\dscv0\\SpatialAudioDemo\\Assets\\ResonanceAudio\\Editor\\ResonanceAudioReverbBakingWindow.cs",
+              "RelativeToolTip": "Assets\\ResonanceAudio\\Editor\\ResonanceAudioReverbBakingWindow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T22:03:10.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "XRControls.cs",
+              "DocumentMoniker": "C:\\Users\\dscv0\\SpatialAudioDemo\\Assets\\XRControls.cs",
+              "RelativeDocumentMoniker": "Assets\\XRControls.cs",
+              "ToolTip": "C:\\Users\\dscv0\\SpatialAudioDemo\\Assets\\XRControls.cs",
+              "RelativeToolTip": "Assets\\XRControls.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T21:54:34.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AudioModeControllerVR.cs",
+              "DocumentMoniker": "C:\\Users\\dscv0\\SpatialAudioDemo\\Assets\\ResonanceAudio\\Demos\\Scripts\\AudioModeControllerVR.cs",
+              "RelativeDocumentMoniker": "Assets\\ResonanceAudio\\Demos\\Scripts\\AudioModeControllerVR.cs",
+              "ToolTip": "C:\\Users\\dscv0\\SpatialAudioDemo\\Assets\\ResonanceAudio\\Demos\\Scripts\\AudioModeControllerVR.cs",
+              "RelativeToolTip": "Assets\\ResonanceAudio\\Demos\\Scripts\\AudioModeControllerVR.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T21:12:34.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AudioModeController.cs",
+              "DocumentMoniker": "C:\\Users\\dscv0\\SpatialAudioDemo\\Assets\\ResonanceAudio\\Demos\\Scripts\\AudioModeController.cs",
+              "RelativeDocumentMoniker": "Assets\\ResonanceAudio\\Demos\\Scripts\\AudioModeController.cs",
+              "ToolTip": "C:\\Users\\dscv0\\SpatialAudioDemo\\Assets\\ResonanceAudio\\Demos\\Scripts\\AudioModeController.cs",
+              "RelativeToolTip": "Assets\\ResonanceAudio\\Demos\\Scripts\\AudioModeController.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAiwIYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T21:12:21.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DemoPlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\dscv0\\SpatialAudioDemo\\Assets\\ResonanceAudio\\Demos\\Scripts\\DemoPlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\ResonanceAudio\\Demos\\Scripts\\DemoPlayerController.cs",
+              "ToolTip": "C:\\Users\\dscv0\\SpatialAudioDemo\\Assets\\ResonanceAudio\\Demos\\Scripts\\DemoPlayerController.cs",
+              "RelativeToolTip": "Assets\\ResonanceAudio\\Demos\\Scripts\\DemoPlayerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T04:32:14.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TMPro_UGUI_Private.cs",
+              "DocumentMoniker": "C:\\Users\\dscv0\\SpatialAudioDemo\\Library\\PackageCache\\com.unity.textmeshpro@3.0.7\\Scripts\\Runtime\\TMPro_UGUI_Private.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.textmeshpro@3.0.7\\Scripts\\Runtime\\TMPro_UGUI_Private.cs",
+              "ToolTip": "C:\\Users\\dscv0\\SpatialAudioDemo\\Library\\PackageCache\\com.unity.textmeshpro@3.0.7\\Scripts\\Runtime\\TMPro_UGUI_Private.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.textmeshpro@3.0.7\\Scripts\\Runtime\\TMPro_UGUI_Private.cs",
+              "ViewState": "AgIAANMEAAAAAAAAAAAiwPkEAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T04:30:07.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ResonanceAudioSource.cs",
+              "DocumentMoniker": "C:\\Users\\dscv0\\SpatialAudioDemo\\Assets\\ResonanceAudio\\Scripts\\ResonanceAudioSource.cs",
+              "RelativeDocumentMoniker": "Assets\\ResonanceAudio\\Scripts\\ResonanceAudioSource.cs",
+              "ToolTip": "C:\\Users\\dscv0\\SpatialAudioDemo\\Assets\\ResonanceAudio\\Scripts\\ResonanceAudioSource.cs",
+              "RelativeToolTip": "Assets\\ResonanceAudio\\Scripts\\ResonanceAudioSource.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAASwIwAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T05:47:58.535Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
